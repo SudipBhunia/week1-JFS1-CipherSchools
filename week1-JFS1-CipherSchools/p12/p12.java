@@ -11,6 +11,7 @@ class surgeon extends doctor {
         System.out.println("I am surgeon");
     }
 }
+
 class dentist extends doctor {
     void treat() {
         System.out.println("I am dentist");
